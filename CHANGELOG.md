@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/polyakovin/ci/compare/v1.0.0...v1.0.1) (2020-12-17)
+
+
+### Bug Fixes
+
+* omg ([eff41fa](https://github.com/polyakovin/ci/commit/eff41fad900636950088e3c52f27f9f80e484b33))
+
 # 1.0.0 (2020-12-17)
 
 
