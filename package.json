@@ -18,13 +18,18 @@
     "semantic-release": "^17.3.0"
   },
   "release": {
-     "plugins": [
+    "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
-      ["@semantic-release/npm",{"npmPublish":false}],
+      [
+        "@semantic-release/npm",
+        {
+          "npmPublish": false
+        }
+      ],
       "@semantic-release/changelog",
       "@semantic-release/git"
     ],
-    "branch": "main"
+    "branches": "main"
   }
 }
